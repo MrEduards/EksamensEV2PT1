@@ -6,4 +6,5 @@
  *
  */
 module EksamensEV {
+	requires java.desktop;
 }

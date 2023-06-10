@@ -4,12 +4,12 @@ Projekta mērķis ir nodrošināt skaidru un konkrētu informāciju par divdimen
 
 ## Veicamo darbu saraksts (Mācību materiāls par izvēlēto tēmu):
 - [x] Izstrādāt informatīvu mācību materiālu
-- [ ] Apildināts ar nepieciešamajiem attēliem
+- [x] Apildināts ar nepieciešamajiem attēliem
 - [x] 5 programmu kodu piemēriem/fragmentiem, to rindu komentāriem
 - [x] Mācību materiāla beigās iekļautas atsauces uz izmantotajiem informācijas avotiem
-- [ ] Patērēto laiku
-- [ ] Darba tapšanā izmantotajiem informācijas avotiem.
-- [ ] Sastaptajiem šķēršļiem izstrādes laikā
+- [x] Patērēto laiku
+- [x] Darba tapšanā izmantotajiem informācijas avotiem.
+- [x] Sastaptajiem šķēršļiem izstrādes laikā
 
 ### Veicamo darbu saraksts (TESTS programma.Java):
 - [x] Veic lietotāja zināšanu pārbaudi atbilstoši izvēlētajai tēmai un prasībām

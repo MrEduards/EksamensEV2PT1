@@ -3,10 +3,10 @@ Projekts "Divdimensiju masīvi programmēšanas valodā Java" sniegs ieskatu div
 Projekta mērķis ir nodrošināt skaidru un konkrētu informāciju par divdimensiju masīviem programmēšanas valodā Java.
 
 ## Veicamo darbu saraksts (Mācību materiāls par izvēlēto tēmu):
-- [ ] Izstrādāt informatīvu mācību materiālu
+- [x] Izstrādāt informatīvu mācību materiālu
 - [ ] Apildināts ar nepieciešamajiem attēliem
-- [ ] 5 programmu kodu piemēriem/fragmentiem, to rindu komentāriem
-- [ ] Mācību materiāla beigās iekļautas atsauces uz izmantotajiem informācijas avotiem
+- [x] 5 programmu kodu piemēriem/fragmentiem, to rindu komentāriem
+- [x] Mācību materiāla beigās iekļautas atsauces uz izmantotajiem informācijas avotiem
 - [ ] Patērēto laiku
 - [ ] Darba tapšanā izmantotajiem informācijas avotiem.
 - [ ] Sastaptajiem šķēršļiem izstrādes laikā

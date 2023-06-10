@@ -25,7 +25,7 @@ Projekta mērķis ir nodrošināt skaidru un konkrētu informāciju par divdimen
 - [x] informācijas lodziņš ar Rezultātu
 
 #### Veicamo darbu saraksts (Diagrammas - Klašu, Aktivitāšu):
-- [ ] Iespēja pārvietot transporlīdzekļus ar peles palīdzību
-- [ ] Iespēja transportlīdzekli nolikt uz kartes
-- [ ] Iespēja transportlīdzekli nolikt uz nepareizā laukuma
-- [ ] Iespēja transportlīdzekli nolikt uz pareizā laukuma
+- [ ] 
+- [ ] 
+- [ ] 
+- [ ] 

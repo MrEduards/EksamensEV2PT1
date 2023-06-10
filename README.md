@@ -12,14 +12,17 @@ Projekta mērķis ir nodrošināt skaidru un konkrētu informāciju par divdimen
 - [ ] Sastaptajiem šķēršļiem izstrādes laikā
 
 ### Veicamo darbu saraksts (TESTS programma.Java):
-- [ ] Veic lietotāja zināšanu pārbaudi atbilstoši izvēlētajai tēmai un prasībām
-- [ ] Lietotājs atbild uz katru jautājumu 1 reizi
-- [ ] Katram jautājumam 4 atbilžu varianti
-- [ ] Pareizi 2 vai 3 atbilžu varianti
-- [ ] Saņem tūlītēju novērtējumu, vai atbilde pareiza vai nepareiza
-- [ ] Beigās paziņo, cik jautājumi atbildēti pareizi. 
-- [ ] Tests satur 10 jautājumus
-- [ ] Izstrādāt programmatūru (testu)
+- [x] Veic lietotāja zināšanu pārbaudi atbilstoši izvēlētajai tēmai un prasībām
+- [x] Lietotājs atbild uz katru jautājumu 1 reizi
+- [x] Katram jautājumam 4 atbilžu varianti
+- [x] Pareizi 2 vai 3 atbilžu varianti
+- [x] Saņem tūlītēju novērtējumu, vai atbilde pareiza vai nepareiza
+- [x] Beigās paziņo, cik jautājumi atbildēti pareizi. 
+- [x] Tests satur 10 jautājumus
+- [x] Izstrādāt programmatūru (testu)
+- [x] Divdimensiju masīvs -PareizasAtbildes
+- [x] mainīgie - JautajumaSkaits /pareizoAtbilzuSkaits
+- [x] informācijas lodziņš ar Rezultātu
 
 #### Veicamo darbu saraksts (Diagrammas - Klašu, Aktivitāšu):
 - [ ] Iespēja pārvietot transporlīdzekļus ar peles palīdzību

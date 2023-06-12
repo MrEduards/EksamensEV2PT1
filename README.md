@@ -24,7 +24,7 @@ Projekta mērķis ir nodrošināt skaidru un konkrētu informāciju par divdimen
 - [x] mainīgie - JautajumaSkaits /pareizoAtbilzuSkaits
 - [x] informācijas lodziņš ar Rezultātu
 
-#### Veicamo darbu saraksts (Diagrammas - Klašu, Aktivitāšu):
+#### Veicamo darbu saraksts (Diagrammas - UseCaseDiagramma, Aktivitāšu):
 - [x] Izvēlieties pareizo diagrammu veidu
 - [x] Identificējiet galvenos objektus vai klases
 - [x] Definējiet attiecības starp objektiem vai klasēm

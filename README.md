@@ -25,7 +25,10 @@ Projekta mērķis ir nodrošināt skaidru un konkrētu informāciju par divdimen
 - [x] informācijas lodziņš ar Rezultātu
 
 #### Veicamo darbu saraksts (Diagrammas - Klašu, Aktivitāšu):
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [x] Izvēlieties pareizo diagrammu veidu
+- [x] Identificējiet galvenos objektus vai klases
+- [x] Definējiet attiecības starp objektiem vai klasēm
+- [x] Pievienojiet atribūtus un metodes
+- [x] Izveidojiet diagrammas struktūru
+
+

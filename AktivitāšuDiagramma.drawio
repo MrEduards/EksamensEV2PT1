@@ -1,0 +1,217 @@
+<mxfile host="app.diagrams.net" modified="2023-06-11T10:16:07.615Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="xthNreMDPHDlwC2ZxcX8" version="21.3.8" type="device">
+  <diagram name="Страница 1" id="XAC2pm71bDlGUvfpnOJm">
+    <mxGraphModel dx="1050" dy="1742" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-1" value="" style="ellipse;html=1;shape=startState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="294" y="-100" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-2" value="" style="edgeStyle=orthogonalEdgeStyle;html=1;verticalAlign=bottom;endArrow=open;endSize=8;strokeColor=#000000;rounded=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" source="gXj2H_fvEuA5iycgMWh_-1" parent="1" target="gXj2H_fvEuA5iycgMWh_-3">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309" y="-10" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-3" value="Programmas &quot;Tests par divdimensiju masīviem&quot; startēšana&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="229" y="-30" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-5" value="" style="endArrow=classic;html=1;rounded=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gXj2H_fvEuA5iycgMWh_-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="340" y="110" as="sourcePoint" />
+            <mxPoint x="309" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-7" value="" style="shape=line;html=1;strokeWidth=6;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="78" y="390" width="500" height="10" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.462;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="307" y="350" as="sourcePoint" />
+            <mxPoint x="308" y="391.4000000000001" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="307" y="371" />
+              <mxPoint x="308" y="371" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-11" value="Jautājumu un tās atbildes variantus attēlošana" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="228" y="290" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gXj2H_fvEuA5iycgMWh_-13" target="gXj2H_fvEuA5iycgMWh_-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-13" value="Atbildēt uz jautājumu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="249" y="440" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.462;entryY=0.14;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="308.5" y="399" as="sourcePoint" />
+            <mxPoint x="308.5" y="440" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gXj2H_fvEuA5iycgMWh_-15" target="gXj2H_fvEuA5iycgMWh_-30">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-57" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gXj2H_fvEuA5iycgMWh_-15">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="100" y="700" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="100" y="610" />
+              <mxPoint x="100" y="701" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-15" value="((vertiba == pareizasAtbides[0] || vertiba == pareizasAtbildes[1])&amp;nbsp; &amp;amp;&amp;amp; (vertiba == &#39;A&#39; || vertiba == &#39;B&#39; || &lt;br&gt;vertiba == &#39;C&#39; || vertiba == &#39;D&#39;)) || vertiba == &#39;X&#39;;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="147" y="520" width="324" height="180" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-19" value="Jā" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="304" y="700" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gXj2H_fvEuA5iycgMWh_-24">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309" y="170" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-24" value="pareizoAtbilzuSkaititajs = 0;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="229" y="70" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gXj2H_fvEuA5iycgMWh_-30" target="gXj2H_fvEuA5iycgMWh_-34">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="210" y="790" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-50" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="gXj2H_fvEuA5iycgMWh_-30">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309" y="910" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-30" value="vertiba == &#39;X&#39;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="254" y="759" width="110" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-33" value="Jā" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="354" y="759" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-41" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gXj2H_fvEuA5iycgMWh_-34" target="gXj2H_fvEuA5iycgMWh_-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-34" value="Paziņo par programmu aizvēršanu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="420" y="774.5" width="120" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-64" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gXj2H_fvEuA5iycgMWh_-37" target="gXj2H_fvEuA5iycgMWh_-63">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-37" value="Paziņojums par jautājumu skaitu un par pareizam atbildem" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="460" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-40" value="" style="ellipse;html=1;shape=endState;fillColor=#000000;strokeColor=#000000;" vertex="1" parent="1">
+          <mxGeometry x="640" y="784" width="30" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-43" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="450" as="sourcePoint" />
+            <mxPoint x="560" y="450" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-45" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="550" as="sourcePoint" />
+            <mxPoint x="560" y="550" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-46" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="630" as="sourcePoint" />
+            <mxPoint x="560" y="630" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-47" value="" style="endArrow=classic;html=1;rounded=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="510" y="710" as="sourcePoint" />
+            <mxPoint x="560" y="710" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-51" value="Nē" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="309" y="839" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-52" value="Paziņo par pareizo atbildi sniegšānu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="254" y="910" width="120" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-53" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="309" y="959" as="sourcePoint" />
+            <mxPoint x="309" y="1018" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-56" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gXj2H_fvEuA5iycgMWh_-55" target="gXj2H_fvEuA5iycgMWh_-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="1050" />
+              <mxPoint x="10" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-55" value="pareizoAtbilzuSkaititajs++;" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="234" y="1020" width="160" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-58" value="Nē" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="580" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-60" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gXj2H_fvEuA5iycgMWh_-59" target="gXj2H_fvEuA5iycgMWh_-72">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10" y="725" />
+              <mxPoint x="10" y="210" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-59" value="Paziņo par nepareizo atbildi sniegšānu" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="40" y="700" width="120" height="49" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-62" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="gXj2H_fvEuA5iycgMWh_-61" target="gXj2H_fvEuA5iycgMWh_-3">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="770" y="685" />
+              <mxPoint x="770" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-68" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gXj2H_fvEuA5iycgMWh_-61" target="gXj2H_fvEuA5iycgMWh_-40">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-61" value="rezult == 0&amp;nbsp;" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="650" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="gXj2H_fvEuA5iycgMWh_-63" target="gXj2H_fvEuA5iycgMWh_-61">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-63" value="Piedāvājums izpildīt testu vēlreiz vai iziet" style="rounded=1;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="590" y="555" width="130" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-66" value="Jā" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="710" y="650" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-67" value="Nē" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="650" y="719" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-74" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="302.5" y="250" as="sourcePoint" />
+            <mxPoint x="303" y="290" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="gXj2H_fvEuA5iycgMWh_-72" target="gXj2H_fvEuA5iycgMWh_-37">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-72" value="int i=0;i&amp;lt;Jautajumi.length;i++" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="218" y="170" width="171" height="80" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-75" value="Jā" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="294" y="240" width="60" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="gXj2H_fvEuA5iycgMWh_-77" value="Nē" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="384" y="180" width="60" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>

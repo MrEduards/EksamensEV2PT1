@@ -1,0 +1,37 @@
+<mxfile host="app.diagrams.net" modified="2023-06-11T10:23:49.217Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.0.0 Safari/537.36" etag="rwBGliIhKYezWPzJdoQa" version="21.3.8" type="device">
+  <diagram name="Страница 1" id="rGdatNTpqMnU1xB6oaeD">
+    <mxGraphModel dx="1050" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="j4yjw3iWydmMEQj-9ROO-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j4yjw3iWydmMEQj-9ROO-1" target="j4yjw3iWydmMEQj-9ROO-2">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j4yjw3iWydmMEQj-9ROO-1" value="Programmas lietotājs" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+          <mxGeometry x="100" y="310" width="30" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="j4yjw3iWydmMEQj-9ROO-5" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="j4yjw3iWydmMEQj-9ROO-2" target="j4yjw3iWydmMEQj-9ROO-4">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j4yjw3iWydmMEQj-9ROO-7" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j4yjw3iWydmMEQj-9ROO-2" target="j4yjw3iWydmMEQj-9ROO-6">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j4yjw3iWydmMEQj-9ROO-2" value="Startēt programmu &quot;Tests par divdimensiju masīviem&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="295" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="j4yjw3iWydmMEQj-9ROO-4" value="Aizvērt programmu &quot;Tests par divdimensiju masīviem&quot;" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="210" y="430" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="j4yjw3iWydmMEQj-9ROO-9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="j4yjw3iWydmMEQj-9ROO-6" target="j4yjw3iWydmMEQj-9ROO-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="j4yjw3iWydmMEQj-9ROO-6" value="Atbildēt uz piedāvāto jautājumu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="414" y="295" width="150" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="j4yjw3iWydmMEQj-9ROO-8" value="Testa beigās paskatīties jautājumu skaitu un pareizo atbilžu skaitu" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="640" y="300" width="130" height="80" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
